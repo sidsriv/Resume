@@ -1,2 +1,2 @@
 # Resume
-My Resume in Latex format
+My Resume in Latex
